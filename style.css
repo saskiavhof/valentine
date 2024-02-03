@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Noto+Sans:wght@400;700&display=swap');
+
+
 *
 {
     margin: 0;
@@ -11,7 +14,8 @@ body {
     align-items: center;
     min-height: 100vh;
     background: whitesmoke;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     padding: 20px; 
 }
 
