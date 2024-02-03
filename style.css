@@ -12,6 +12,7 @@ body {
     min-height: 100vh;
     background: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px; 
 }
 
 .gif {
